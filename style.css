@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    position:relative;
+    align-content: center;
+    margin-left: 20vh;
+    margin-top:  20vw;
+    
+}
+
+/* table {
+   min-width: 70vw;
+   border: 2px solid black; 
+   padding: 1px;
+}
+   
+td {
+    border: 2px solid red;
+} */
+
+
+
+
+.button {
+    margin-top:  2vw;
+
+}
+
+
+/* .articleContainer {
+    position: relative;
+    min-width: 40vw;
+    max-width: 60vw;
+    text-align:center;
+    border: 1px solid black;
+    
+    top: 10vh;
+    left: 10vw;
+} */
+
+
+/* DivTable.com  I generated this table online from this site */
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow  {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 1px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+
+/* CSS part has been generated here also */
